@@ -28,4 +28,4 @@ If you have any suggestions or need help, you can contact me on Github.
 
 I make these mods for my friends and me, but they can be useful to everyone. It's my way of contributing to the Valheim community.
 
-<p align="left"><a href="https://github.com/Harchytek/TrophyEater/issues" target="_blank"><img src="https://cdn.simpleicons.org/github/C5C2FF" alt="Github" width="31" align="absmiddle"></a>&nbsp;<strong><a href="https://github.com/Harchytek?tab=repositories" target="_blank"> Harchytek</a></strong></p>
+<p align="left"><a href="https://github.com/Harchytek/AutoSync/issues" target="_blank"><img src="https://cdn.simpleicons.org/github/C5C2FF" alt="Github" width="31" align="absmiddle"></a>&nbsp;<strong><a href="https://github.com/Harchytek?tab=repositories" target="_blank"> Harchytek</a></strong></p>
